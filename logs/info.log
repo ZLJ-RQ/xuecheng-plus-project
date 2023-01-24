@@ -1,0 +1,232 @@
+2023-01-24 20:00:46,237 INFO [http-nio-63040-exec-3][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-24 20:00:46,237 INFO [http-nio-63040-exec-3][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-24 20:00:46,244 INFO [http-nio-63040-exec-3][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-01-24 20:00:46,244 INFO [http-nio-63040-exec-3][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-01-24 20:00:46,251 INFO [http-nio-63040-exec-3][FrameworkServlet.java:547] - Completed initialization in 7 ms
+2023-01-24 20:00:46,251 INFO [http-nio-63040-exec-3][FrameworkServlet.java:547] - Completed initialization in 7 ms
+2023-01-24 20:00:46,448 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-01-24 20:00:46,448 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-01-24 20:00:46,450 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-01-24 20:00:46,450 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-01-24 20:00:46,451 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - autoCommit......................true
+2023-01-24 20:00:46,451 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - autoCommit......................true
+2023-01-24 20:00:46,452 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - catalog.........................none
+2023-01-24 20:00:46,452 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - catalog.........................none
+2023-01-24 20:00:46,452 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - connectionInitSql...............none
+2023-01-24 20:00:46,452 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - connectionInitSql...............none
+2023-01-24 20:00:46,453 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-01-24 20:00:46,453 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-01-24 20:00:46,453 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-01-24 20:00:46,453 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-01-24 20:00:46,454 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - dataSource......................none
+2023-01-24 20:00:46,454 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - dataSource......................none
+2023-01-24 20:00:46,455 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-01-24 20:00:46,455 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-01-24 20:00:46,456 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-01-24 20:00:46,456 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-01-24 20:00:46,457 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-01-24 20:00:46,457 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-01-24 20:00:46,457 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-01-24 20:00:46,457 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-01-24 20:00:46,458 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-01-24 20:00:46,458 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-01-24 20:00:46,458 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-01-24 20:00:46,458 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-01-24 20:00:46,458 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-01-24 20:00:46,458 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-01-24 20:00:46,459 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-01-24 20:00:46,459 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-01-24 20:00:46,460 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-01-24 20:00:46,460 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-01-24 20:00:46,460 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-01-24 20:00:46,460 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-01-24 20:00:46,460 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://192.168.101.65:3306/xcplus_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-01-24 20:00:46,460 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://192.168.101.65:3306/xcplus_content?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-01-24 20:00:46,461 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-01-24 20:00:46,461 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-01-24 20:00:46,461 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-01-24 20:00:46,461 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-01-24 20:00:46,462 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-01-24 20:00:46,462 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-01-24 20:00:46,462 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - metricRegistry..................none
+2023-01-24 20:00:46,462 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - metricRegistry..................none
+2023-01-24 20:00:46,463 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-01-24 20:00:46,463 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-01-24 20:00:46,463 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - minimumIdle.....................10
+2023-01-24 20:00:46,463 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - minimumIdle.....................10
+2023-01-24 20:00:46,464 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - password........................<masked>
+2023-01-24 20:00:46,464 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - password........................<masked>
+2023-01-24 20:00:46,464 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-01-24 20:00:46,464 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-01-24 20:00:46,464 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - readOnly........................false
+2023-01-24 20:00:46,464 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - readOnly........................false
+2023-01-24 20:00:46,465 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - registerMbeans..................false
+2023-01-24 20:00:46,465 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - registerMbeans..................false
+2023-01-24 20:00:46,465 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-01-24 20:00:46,465 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-01-24 20:00:46,466 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - schema..........................none
+2023-01-24 20:00:46,466 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - schema..........................none
+2023-01-24 20:00:46,467 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - threadFactory...................internal
+2023-01-24 20:00:46,467 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - threadFactory...................internal
+2023-01-24 20:00:46,467 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - transactionIsolation............default
+2023-01-24 20:00:46,467 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - transactionIsolation............default
+2023-01-24 20:00:46,468 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - username........................"root"
+2023-01-24 20:00:46,468 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - username........................"root"
+2023-01-24 20:00:46,468 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - validationTimeout...............5000
+2023-01-24 20:00:46,468 DEBUG [http-nio-63040-exec-3][HikariConfig.java:1098] - validationTimeout...............5000
+2023-01-24 20:00:46,468 INFO [http-nio-63040-exec-3][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-01-24 20:00:46,468 INFO [http-nio-63040-exec-3][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-01-24 20:00:46,707 DEBUG [http-nio-63040-exec-3][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b7b15c8
+2023-01-24 20:00:46,707 DEBUG [http-nio-63040-exec-3][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b7b15c8
+2023-01-24 20:00:46,709 INFO [http-nio-63040-exec-3][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-01-24 20:00:46,709 INFO [http-nio-63040-exec-3][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-01-24 20:00:46,718 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:00:46,718 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:00:46,742 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:00:46,742 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:00:46,765 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:00:46,765 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:00:46,775 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:00:46,775 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:00:46,776 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:00:46,776 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:00:46,783 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:00:46,783 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:00:46,811 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2023-01-24 20:00:46,811 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2023-01-24 20:00:46,820 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54390df9
+2023-01-24 20:00:46,820 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54390df9
+2023-01-24 20:00:46,828 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@150407c2
+2023-01-24 20:00:46,828 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@150407c2
+2023-01-24 20:00:46,837 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@245b71c2
+2023-01-24 20:00:46,837 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@245b71c2
+2023-01-24 20:00:46,845 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@752bf88d
+2023-01-24 20:00:46,845 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@752bf88d
+2023-01-24 20:00:46,855 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d8861a6
+2023-01-24 20:00:46,855 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d8861a6
+2023-01-24 20:00:46,862 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7165611f
+2023-01-24 20:00:46,862 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7165611f
+2023-01-24 20:00:46,869 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@d297dc
+2023-01-24 20:00:46,869 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@d297dc
+2023-01-24 20:00:46,877 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34674ef1
+2023-01-24 20:00:46,877 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34674ef1
+2023-01-24 20:00:46,887 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e4493a4
+2023-01-24 20:00:46,887 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e4493a4
+2023-01-24 20:00:46,887 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:00:46,887 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:01:16,814 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:01:16,814 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:01:16,814 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:01:16,814 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:01:46,815 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:01:46,815 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:01:46,815 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:01:46,815 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:02:16,818 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:02:16,818 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:02:16,818 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:02:16,818 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:02:44,570 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:44,570 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:44,571 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:44,571 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:44,573 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:44,573 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:44,574 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:44,574 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:44,575 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:44,575 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:44,577 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:44,577 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:46,819 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:02:46,819 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:02:46,819 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:02:46,819 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:02:48,225 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:48,225 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:48,226 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:48,226 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:48,227 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:48,227 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:48,228 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:48,228 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:48,229 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:48,229 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:48,231 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:48,231 DEBUG [http-nio-63040-exec-6][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:50,206 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:50,206 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:50,207 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:50,207 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:50,209 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:50,209 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:50,210 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:50,210 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:50,210 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:50,210 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:50,213 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:50,213 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:51,282 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:51,282 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:51,283 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:51,283 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:51,284 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:51,284 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:51,285 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:51,285 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:51,286 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:51,286 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:51,288 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:51,288 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:52,535 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:52,535 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:52,536 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:52,536 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:52,537 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:52,537 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:52,538 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:52,538 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:52,539 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:52,539 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:52,541 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:52,541 DEBUG [http-nio-63040-exec-9][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:54,009 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:54,009 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:02:54,009 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:54,009 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:02:54,011 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:54,011 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:02:54,012 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:54,012 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:02:54,012 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:54,012 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:02:54,015 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:02:54,015 DEBUG [http-nio-63040-exec-10][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:03:16,821 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:03:16,821 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:03:16,821 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:03:16,821 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:03:46,822 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:03:46,822 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:03:46,822 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:03:46,822 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:04:12,381 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:04:12,381 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?)
+2023-01-24 20:04:12,381 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:04:12,381 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String)
+2023-01-24 20:04:12,383 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:04:12,383 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-01-24 20:04:12,384 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:04:12,384 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ? AND audit_status = ? AND status = ?) LIMIT ?
+2023-01-24 20:04:12,385 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:04:12,385 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 202004(String), 203001(String), 2(Long)
+2023-01-24 20:04:12,390 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:04:12,390 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-01-24 20:04:16,823 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:04:16,823 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:04:16,823 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:04:16,823 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:04:46,825 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:04:46,825 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-01-24 20:04:46,825 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-01-24 20:04:46,825 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
