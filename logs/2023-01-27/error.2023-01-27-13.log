@@ -1,0 +1,1 @@
+2023-01-27 13:05:33,079 ERROR [http-nio-63040-exec-10][GlobalExceptionHandler.java:23] - 【系统异常】课程设置了收费价格不能为空且必须大于0

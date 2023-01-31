@@ -1,0 +1,10 @@
+2023-01-30 16:25:02,791 ERROR [http-nio-63040-exec-5][GlobalExceptionHandler.java:28] - 【系统异常】只允许修改本机构的课程
+2023-01-30 16:25:32,803 ERROR [http-nio-63040-exec-6][GlobalExceptionHandler.java:28] - 【系统异常】删除课程计划失败
+2023-01-30 16:32:13,047 ERROR [http-nio-63040-exec-7][GlobalExceptionHandler.java:36] - 【系统异常】Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+2023-01-30 16:32:35,924 ERROR [http-nio-63040-exec-10][GlobalExceptionHandler.java:36] - 【系统异常】Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+2023-01-30 16:32:55,038 ERROR [http-nio-63040-exec-2][GlobalExceptionHandler.java:36] - 【系统异常】Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"
+2023-01-30 16:57:12,309 ERROR [http-nio-63040-exec-10][GlobalExceptionHandler.java:28] - 【系统异常】课程计划信息还有子级信息，无法操作
+2023-01-30 16:57:28,891 ERROR [http-nio-63040-exec-2][GlobalExceptionHandler.java:28] - 【系统异常】课程计划信息还有子级信息，无法操作
+2023-01-30 16:57:34,305 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:28] - 【系统异常】课程计划信息还有子级信息，无法操作
+2023-01-30 16:58:59,340 ERROR [http-nio-63040-exec-8][GlobalExceptionHandler.java:28] - 【系统异常】课程计划信息还有子级信息，无法操作
+2023-01-30 16:59:06,822 ERROR [http-nio-63040-exec-9][GlobalExceptionHandler.java:28] - 【系统异常】课程计划信息还有子级信息，无法操作

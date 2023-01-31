@@ -1,0 +1,32 @@
+2023-01-31 11:35:58,998 ERROR [http-nio-63040-exec-5][GlobalExceptionHandler.java:36] - 【系统异常】null
+2023-01-31 11:36:10,531 ERROR [http-nio-63040-exec-8][GlobalExceptionHandler.java:36] - 【系统异常】null
+2023-01-31 11:37:29,354 ERROR [http-nio-63040-exec-7][GlobalExceptionHandler.java:36] - 【系统异常】null
+2023-01-31 11:47:38,929 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:36] - 【系统异常】
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+### The error may exist in com/xuecheng/content/mapper/CourseTeacherMapper.java (best guess)
+### The error may involve com.xuecheng.content.mapper.CourseTeacherMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO course_teacher  ( course_id, teacher_name, position, introduction )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+; Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+2023-01-31 11:47:38,929 ERROR [http-nio-63040-exec-4][GlobalExceptionHandler.java:36] - 【系统异常】
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+### The error may exist in com/xuecheng/content/mapper/CourseTeacherMapper.java (best guess)
+### The error may involve com.xuecheng.content.mapper.CourseTeacherMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO course_teacher  ( course_id, teacher_name, position, introduction )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+; Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+2023-01-31 11:47:38,929 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:36] - 【系统异常】
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+### The error may exist in com/xuecheng/content/mapper/CourseTeacherMapper.java (best guess)
+### The error may involve com.xuecheng.content.mapper.CourseTeacherMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO course_teacher  ( course_id, teacher_name, position, introduction )  VALUES  ( ?, ?, ?, ? )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+; Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '119-222' for key 'course_teacher.courseid_teacherId_unique'
+2023-01-31 11:55:26,700 ERROR [http-nio-63040-exec-5][GlobalExceptionHandler.java:28] - 【系统异常】修改课程教师失败
+2023-01-31 11:55:27,972 ERROR [http-nio-63040-exec-7][GlobalExceptionHandler.java:28] - 【系统异常】修改课程教师失败
+2023-01-31 11:55:29,589 ERROR [http-nio-63040-exec-8][GlobalExceptionHandler.java:28] - 【系统异常】修改课程教师失败
+2023-01-31 11:55:47,818 ERROR [http-nio-63040-exec-9][GlobalExceptionHandler.java:28] - 【系统异常】修改课程教师失败
+2023-01-31 11:55:54,946 ERROR [http-nio-63040-exec-10][GlobalExceptionHandler.java:28] - 【系统异常】修改课程教师失败

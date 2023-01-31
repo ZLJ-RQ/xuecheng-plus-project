@@ -1,0 +1,5 @@
+2023-01-27 15:37:58,139 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:23] - 【系统异常】课程名称为空
+2023-01-27 15:49:23,766 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:50] - 课程名称不能为空,
+2023-01-27 15:53:25,063 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:50] - 课程名称不能为空,
+2023-01-27 15:53:27,247 ERROR [http-nio-63040-exec-2][GlobalExceptionHandler.java:50] - 课程名称不能为空,
+2023-01-27 15:54:49,981 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:50] - 适用人群内容过少,课程名称不能为空,

@@ -1,0 +1,5 @@
+2023-01-31 12:33:14,662 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:36] - 【系统异常】Source must not be null
+2023-01-31 12:33:23,952 ERROR [http-nio-63040-exec-5][GlobalExceptionHandler.java:36] - 【系统异常】Source must not be null
+2023-01-31 12:33:59,014 ERROR [http-nio-63040-exec-10][GlobalExceptionHandler.java:50] - 适用人群内容过少,
+2023-01-31 12:36:48,952 ERROR [http-nio-63040-exec-8][GlobalExceptionHandler.java:36] - 【系统异常】Request method 'DELETE' not supported
+2023-01-31 12:37:03,986 ERROR [http-nio-63040-exec-9][GlobalExceptionHandler.java:36] - 【系统异常】Request method 'DELETE' not supported

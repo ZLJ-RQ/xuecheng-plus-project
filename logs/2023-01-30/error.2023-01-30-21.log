@@ -1,0 +1,1 @@
+2023-01-30 21:53:48,372 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:36] - 【系统异常】nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'id' in 'class com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper'
