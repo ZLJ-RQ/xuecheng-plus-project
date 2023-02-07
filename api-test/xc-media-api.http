@@ -1,0 +1,9 @@
+### 上传文件
+POST {{media_host}}/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="1539259310305.png"
+Content-Type: application/octet-stream
+
+< D:\Desktop\学成在线\资料\开发工具配置文档\imgs\1539259310305.png

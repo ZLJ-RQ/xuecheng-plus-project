@@ -1,0 +1,17 @@
+2023-02-03 10:25:28,737 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63050 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63050 or configure this application to listen on another port.
+
+2023-02-03 10:38:17,176 ERROR [http-nio-63050-exec-3][GlobalExceptionHandler.java:36] - 【系统异常】Content type '' not supported
+2023-02-03 10:38:22,995 ERROR [http-nio-63050-exec-1][GlobalExceptionHandler.java:28] - 【系统异常】上传文件过程中出错
+2023-02-03 10:38:22,995 ERROR [http-nio-63050-exec-2][GlobalExceptionHandler.java:28] - 【系统异常】上传文件过程中出错
