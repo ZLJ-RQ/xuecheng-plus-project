@@ -1,0 +1,151 @@
+2023-02-19 09:48:42,515 ERROR [main][AlipayLogger.java:333] - ErrorScene^_^40004^_^ACQ.TRADE_NOT_EXIST^_^null^_^Windows 10^_^2023-02-19 09:48:42^_^ProtocalMustParams:charset=UTF-8&method=alipay.trade.query&sign=dba4f4oxcIOsbS5WmJ1LO4Qg8I1brRre61uTcQ0H77CQboVieo+c/ADZNUMe4Wjdr39yCT1TVpCAnJSXIEVLhrln67aqygSU/p4ytu73X3o8PQQpL/wD+1WmlXTQ8m75R/3T5jmUHjIunV79lTILHrFWPgSj+lOG75s+WUomtncWAgXD8Ikzi0DGMYZ1PuhWaNgal8WcwwvXbI/CgGvzRqIXdD7bRqlQVxKV9E/HDzXyEoyrxgDjipG6uZOK2nOAwXu6sLRvBytTKQboweHgX3FOYcFaEMOdHuIAZfwpC/a/JvsT8rnWMmaem6efdCrDuSB9zm9pS1HQrvas4YCo/w==&version=1.0&app_id=2016101900725017&sign_type=RSA2&timestamp=2023-02-19 09:48:41^_^ProtocalOptParams:alipay_sdk=alipay-sdk-java-3.7.73.ALL&format=json^_^ApplicationParams:biz_content={"out_trade_no":"202210100010101002"}^_^Body:{"alipay_trade_query_response":{"code":"40004","msg":"Business Failed","sub_code":"ACQ.TRADE_NOT_EXIST","sub_msg":"交易不存在","buyer_pay_amount":"0.00","invoice_amount":"0.00","out_trade_no":"202210100010101002","point_amount":"0.00","receipt_amount":"0.00"},"sign":"a6FOEZKLoBmAnvr25eu7jYKEdd3XbIn3zpxJ5V2HOxhlFu5eV0mrS0bCoLyzYG9+JhmutLDCR3LIZAgBP4C7omjAePdaIQGYLS4pi0q0jId6Snm67EuOBPyj1IKRnzfbOXI3p7rzeSP2S9IRJuNYo5AGxfXqGQ0+62JD3XSu/id+ESgK3qVcX+7VMfPy8cPs72J5xDalxVS9h4XpD8Vk4cZe0wOZsxX2Zrp9w4ju8T7+n7Hqb7Zw13sKE1ZOqVFzmarQ0JADF9BcPca2MRrgobJElH9eW7NxWnBPzqi16FzoaiXLrYpcPf9T0WKDIhKMrCBvdtH4Gu5lA4NKC9MbkQ=="}^_^31ms,529ms,23ms
+2023-02-19 11:27:16,537 WARN [AMQP Connection 192.168.101.65:5672][ForgivingExceptionHandler.java:115] - An unexpected connection driver error occured (Exception message: Connection reset)
+2023-02-19 11:27:16,530 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.101.65:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev1&clientIP=192.168.31.177&serviceName=xuecheng-plus-project%40%40orders-api&udpPort=64918&clusters=DEFAULT, body: {}
+2023-02-19 11:27:16,537 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.101.65:8848]
+2023-02-19 11:27:16,537 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-02-19 11:27:16,523 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-02-19 11:27:16,526 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.101.65:8848]
+2023-02-19 11:27:16,530 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://192.168.101.65:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev1&clientIP=192.168.31.177&serviceName=xuecheng-plus-project%40%40orders-api&udpPort=64918&clusters=DEFAULT, body: {}
+2023-02-19 11:27:16,537 WARN [AMQP Connection 192.168.101.65:5672][ForgivingExceptionHandler.java:115] - An unexpected connection driver error occured (Exception message: Connection reset)
+2023-02-19 11:27:16,558 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.101.65:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=orders-api-dev.yamlxuecheng-plus-projectd4098cae555e40b592622417bf68cf39dev1orders-service-dev.yamlxuecheng-plus-project8da9d76cf7f2d7042fe6fca8a0f128bddev1orders-api.yamlxuecheng-plus-projectdev1swagger-dev.yamlxuecheng-plus-common9c0d3be98c5a9ff620445bd718ea10addev1orders-apixuecheng-plus-projectdev1rabbitmq-dev.yamlxuecheng-plus-common9a2acc646d17166ee29989751faceaeadev1logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev1, tenant=dev1}
+2023-02-19 11:27:16,558 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][NacosRestTemplate.java:476] - HTTP method: POST, url: http://192.168.101.65:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=orders-api-dev.yamlxuecheng-plus-projectd4098cae555e40b592622417bf68cf39dev1orders-service-dev.yamlxuecheng-plus-project8da9d76cf7f2d7042fe6fca8a0f128bddev1orders-api.yamlxuecheng-plus-projectdev1swagger-dev.yamlxuecheng-plus-common9c0d3be98c5a9ff620445bd718ea10addev1orders-apixuecheng-plus-projectdev1rabbitmq-dev.yamlxuecheng-plus-common9a2acc646d17166ee29989751faceaeadev1logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev1, tenant=dev1}
+2023-02-19 11:27:16,559 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@6e7a70f1]
+2023-02-19 11:27:16,559 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@6e7a70f1]
+2023-02-19 11:27:16,561 ERROR [AMQP Connection 192.168.101.65:5672][CachingConnectionFactory.java:1575] - Channel shutdown: connection error
+2023-02-19 11:27:16,561 ERROR [AMQP Connection 192.168.101.65:5672][CachingConnectionFactory.java:1575] - Channel shutdown: connection error
+2023-02-19 11:27:16,586 DEBUG [Thread-18][DefaultChannelId.java:101] - -Dio.netty.machineId: 00:2b:67:ff:fe:ec:db:7a (auto-detected)
+2023-02-19 11:27:16,586 DEBUG [Thread-18][DefaultChannelId.java:101] - -Dio.netty.machineId: 00:2b:67:ff:fe:ec:db:7a (auto-detected)
+2023-02-19 11:27:16,617 WARN [Thread-13][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2023-02-19 11:27:16,617 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-02-19 11:27:16,617 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-02-19 11:27:16,617 WARN [Thread-13][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2023-02-19 11:27:16,617 WARN [Thread-13][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2023-02-19 11:27:16,617 WARN [Thread-13][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2023-02-19 11:27:16,618 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-02-19 11:27:16,618 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-02-19 11:27:16,624 DEBUG [Thread-18][ResourceLeakDetector.java:129] - -Dio.netty.leakDetection.level: simple
+2023-02-19 11:27:16,624 INFO [SpringContextShutdownHook][SimpleMessageListenerContainer.java:646] - Waiting for workers to finish.
+2023-02-19 11:27:16,624 DEBUG [Thread-18][ResourceLeakDetector.java:129] - -Dio.netty.leakDetection.level: simple
+2023-02-19 11:27:16,624 INFO [SpringContextShutdownHook][SimpleMessageListenerContainer.java:646] - Waiting for workers to finish.
+2023-02-19 11:27:16,624 DEBUG [Thread-18][ResourceLeakDetector.java:130] - -Dio.netty.leakDetection.targetRecords: 4
+2023-02-19 11:27:16,624 INFO [SpringContextShutdownHook][SimpleMessageListenerContainer.java:649] - Successfully waited for workers to finish.
+2023-02-19 11:27:16,624 INFO [SpringContextShutdownHook][SimpleMessageListenerContainer.java:649] - Successfully waited for workers to finish.
+2023-02-19 11:27:16,624 DEBUG [Thread-18][ResourceLeakDetector.java:130] - -Dio.netty.leakDetection.targetRecords: 4
+2023-02-19 11:27:16,625 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-19 11:27:16,625 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-19 11:27:16,633 INFO [SpringContextShutdownHook][AbstractMessageListenerContainer.java:1260] - Shutdown ignored - container is not active already
+2023-02-19 11:27:16,633 INFO [SpringContextShutdownHook][AbstractMessageListenerContainer.java:1260] - Shutdown ignored - container is not active already
+2023-02-19 11:27:16,636 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2023-02-19 11:27:16,636 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2023-02-19 11:27:16,636 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2023-02-19 11:27:16,636 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2023-02-19 11:27:16,636 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2023-02-19 11:27:16,636 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2023-02-19 11:27:16,681 DEBUG [Thread-18][PooledByteBufAllocator.java:154] - -Dio.netty.allocator.numHeapArenas: 24
+2023-02-19 11:27:16,681 DEBUG [Thread-18][PooledByteBufAllocator.java:154] - -Dio.netty.allocator.numHeapArenas: 24
+2023-02-19 11:27:16,682 DEBUG [Thread-18][PooledByteBufAllocator.java:155] - -Dio.netty.allocator.numDirectArenas: 24
+2023-02-19 11:27:16,682 DEBUG [Thread-18][PooledByteBufAllocator.java:155] - -Dio.netty.allocator.numDirectArenas: 24
+2023-02-19 11:27:16,682 DEBUG [Thread-18][PooledByteBufAllocator.java:157] - -Dio.netty.allocator.pageSize: 8192
+2023-02-19 11:27:16,682 DEBUG [Thread-18][PooledByteBufAllocator.java:157] - -Dio.netty.allocator.pageSize: 8192
+2023-02-19 11:27:16,682 DEBUG [Thread-18][PooledByteBufAllocator.java:162] - -Dio.netty.allocator.maxOrder: 11
+2023-02-19 11:27:16,682 DEBUG [Thread-18][PooledByteBufAllocator.java:162] - -Dio.netty.allocator.maxOrder: 11
+2023-02-19 11:27:16,682 DEBUG [Thread-18][PooledByteBufAllocator.java:166] - -Dio.netty.allocator.chunkSize: 16777216
+2023-02-19 11:27:16,682 DEBUG [Thread-18][PooledByteBufAllocator.java:166] - -Dio.netty.allocator.chunkSize: 16777216
+2023-02-19 11:27:16,683 DEBUG [Thread-18][PooledByteBufAllocator.java:167] - -Dio.netty.allocator.smallCacheSize: 256
+2023-02-19 11:27:16,683 DEBUG [Thread-18][PooledByteBufAllocator.java:167] - -Dio.netty.allocator.smallCacheSize: 256
+2023-02-19 11:27:16,683 DEBUG [Thread-18][PooledByteBufAllocator.java:168] - -Dio.netty.allocator.normalCacheSize: 64
+2023-02-19 11:27:16,683 DEBUG [Thread-18][PooledByteBufAllocator.java:168] - -Dio.netty.allocator.normalCacheSize: 64
+2023-02-19 11:27:16,683 DEBUG [Thread-18][PooledByteBufAllocator.java:169] - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-02-19 11:27:16,683 DEBUG [Thread-18][PooledByteBufAllocator.java:169] - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2023-02-19 11:27:16,684 DEBUG [Thread-18][PooledByteBufAllocator.java:170] - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-02-19 11:27:16,684 DEBUG [Thread-18][PooledByteBufAllocator.java:170] - -Dio.netty.allocator.cacheTrimInterval: 8192
+2023-02-19 11:27:16,684 DEBUG [Thread-18][PooledByteBufAllocator.java:171] - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-02-19 11:27:16,684 DEBUG [Thread-18][PooledByteBufAllocator.java:171] - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2023-02-19 11:27:16,684 DEBUG [Thread-18][PooledByteBufAllocator.java:172] - -Dio.netty.allocator.useCacheForAllThreads: true
+2023-02-19 11:27:16,684 DEBUG [Thread-18][PooledByteBufAllocator.java:172] - -Dio.netty.allocator.useCacheForAllThreads: true
+2023-02-19 11:27:16,684 DEBUG [Thread-18][PooledByteBufAllocator.java:173] - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-02-19 11:27:16,684 DEBUG [Thread-18][PooledByteBufAllocator.java:173] - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2023-02-19 11:27:16,707 DEBUG [Thread-18][ByteBufUtil.java:87] - -Dio.netty.allocator.type: pooled
+2023-02-19 11:27:16,707 DEBUG [Thread-18][ByteBufUtil.java:87] - -Dio.netty.allocator.type: pooled
+2023-02-19 11:27:16,707 DEBUG [Thread-18][ByteBufUtil.java:96] - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-02-19 11:27:16,707 DEBUG [Thread-18][ByteBufUtil.java:96] - -Dio.netty.threadLocalDirectBufferSize: 0
+2023-02-19 11:27:16,707 DEBUG [Thread-18][ByteBufUtil.java:99] - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-02-19 11:27:16,707 DEBUG [Thread-18][ByteBufUtil.java:99] - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2023-02-19 11:27:16,728 ERROR [Thread-18][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-19 11:27:16,728 ERROR [Thread-18][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute$$$capture(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-19 11:27:19,639 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2023-02-19 11:27:19,639 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2023-02-19 11:27:21,544 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-02-19 11:27:21,544 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-02-19 11:27:22,642 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2023-02-19 11:27:22,642 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2023-02-19 11:27:22,642 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2023-02-19 11:27:22,642 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2023-02-19 11:27:22,643 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2023-02-19 11:27:22,643 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2023-02-19 11:27:22,643 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2023-02-19 11:27:22,643 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2023-02-19 11:27:22,643 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2023-02-19 11:27:22,643 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2023-02-19 11:27:22,644 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2023-02-19 11:27:22,644 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2023-02-19 11:27:22,645 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2023-02-19 11:27:22,645 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2023-02-19 11:27:22,646 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2023-02-19 11:27:22,646 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2023-02-19 11:27:22,646 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2023-02-19 11:27:22,646 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2023-02-19 11:27:22,646 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2023-02-19 11:27:22,646 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2023-02-19 11:27:22,648 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-02-19 11:27:22,648 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-02-19 11:27:22,653 INFO [SpringContextShutdownHook][EmbedServer.java:117] - >>>>>>>>>>> xxl-job remoting server destroy success.
+2023-02-19 11:27:22,653 INFO [SpringContextShutdownHook][EmbedServer.java:117] - >>>>>>>>>>> xxl-job remoting server destroy success.
+2023-02-19 11:27:22,653 INFO [xxl-job, executor JobLogFileCleanThread][JobLogFileCleanThread.java:99] - >>>>>>>>>>> xxl-job, executor JobLogFileCleanThread thread destroy.
+2023-02-19 11:27:22,653 INFO [xxl-job, executor JobLogFileCleanThread][JobLogFileCleanThread.java:99] - >>>>>>>>>>> xxl-job, executor JobLogFileCleanThread thread destroy.
+2023-02-19 11:27:22,654 INFO [xxl-job, executor TriggerCallbackThread][TriggerCallbackThread.java:98] - >>>>>>>>>>> xxl-job, executor callback thread destroy.
+2023-02-19 11:27:22,654 INFO [xxl-job, executor TriggerCallbackThread][TriggerCallbackThread.java:98] - >>>>>>>>>>> xxl-job, executor callback thread destroy.
+2023-02-19 11:27:22,655 INFO [Thread-17][TriggerCallbackThread.java:128] - >>>>>>>>>>> xxl-job, executor retry callback thread destroy.
+2023-02-19 11:27:22,655 INFO [Thread-17][TriggerCallbackThread.java:128] - >>>>>>>>>>> xxl-job, executor retry callback thread destroy.

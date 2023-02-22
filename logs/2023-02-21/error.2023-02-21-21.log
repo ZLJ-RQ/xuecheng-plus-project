@@ -1,0 +1,437 @@
+2023-02-21 21:25:21,077 ERROR [http-nio-63040-exec-154][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,089 ERROR [http-nio-63040-exec-126][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,092 ERROR [http-nio-63040-exec-115][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,096 ERROR [http-nio-63040-exec-73][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,100 ERROR [http-nio-63040-exec-146][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,109 ERROR [http-nio-63040-exec-192][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,132 ERROR [http-nio-63040-exec-133][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,140 ERROR [http-nio-63040-exec-93][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,140 ERROR [http-nio-63040-exec-129][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,142 ERROR [http-nio-63040-exec-187][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,143 ERROR [http-nio-63040-exec-11][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,145 ERROR [http-nio-63040-exec-50][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,156 ERROR [http-nio-63040-exec-36][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,163 ERROR [http-nio-63040-exec-38][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,163 ERROR [http-nio-63040-exec-114][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,164 ERROR [http-nio-63040-exec-34][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,164 ERROR [http-nio-63040-exec-135][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,169 ERROR [http-nio-63040-exec-123][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,169 ERROR [http-nio-63040-exec-132][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,207 ERROR [http-nio-63040-exec-41][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,207 ERROR [http-nio-63040-exec-76][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,208 ERROR [http-nio-63040-exec-145][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,209 ERROR [http-nio-63040-exec-125][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,210 ERROR [http-nio-63040-exec-90][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,210 ERROR [http-nio-63040-exec-160][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,210 ERROR [http-nio-63040-exec-55][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,210 ERROR [http-nio-63040-exec-96][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,211 ERROR [http-nio-63040-exec-24][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,212 ERROR [http-nio-63040-exec-195][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,212 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,214 ERROR [http-nio-63040-exec-189][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,214 ERROR [http-nio-63040-exec-143][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,214 ERROR [http-nio-63040-exec-173][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,215 ERROR [http-nio-63040-exec-162][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,217 ERROR [http-nio-63040-exec-72][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,218 ERROR [http-nio-63040-exec-91][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,219 ERROR [http-nio-63040-exec-44][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,219 ERROR [http-nio-63040-exec-23][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,220 ERROR [http-nio-63040-exec-140][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,220 ERROR [http-nio-63040-exec-49][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,220 ERROR [http-nio-63040-exec-127][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,220 ERROR [http-nio-63040-exec-168][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,221 ERROR [http-nio-63040-exec-139][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,221 ERROR [http-nio-63040-exec-177][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,221 ERROR [http-nio-63040-exec-52][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,222 ERROR [http-nio-63040-exec-80][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,223 ERROR [http-nio-63040-exec-81][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,223 ERROR [http-nio-63040-exec-15][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,223 ERROR [http-nio-63040-exec-7][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,224 ERROR [http-nio-63040-exec-6][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,226 ERROR [http-nio-63040-exec-130][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,226 ERROR [http-nio-63040-exec-94][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,227 ERROR [http-nio-63040-exec-37][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,227 ERROR [http-nio-63040-exec-88][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,227 ERROR [http-nio-63040-exec-111][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,227 ERROR [http-nio-63040-exec-180][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,228 ERROR [http-nio-63040-exec-28][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,228 ERROR [http-nio-63040-exec-59][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,229 ERROR [http-nio-63040-exec-122][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,230 ERROR [http-nio-63040-exec-161][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,232 ERROR [http-nio-63040-exec-97][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,233 ERROR [http-nio-63040-exec-74][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,234 ERROR [http-nio-63040-exec-104][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,234 ERROR [http-nio-63040-exec-152][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,234 ERROR [http-nio-63040-exec-115][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,234 ERROR [http-nio-63040-exec-87][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,235 ERROR [http-nio-63040-exec-147][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,235 ERROR [http-nio-63040-exec-112][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,236 ERROR [http-nio-63040-exec-146][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,236 ERROR [http-nio-63040-exec-126][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,237 ERROR [http-nio-63040-exec-142][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,237 ERROR [http-nio-63040-exec-10][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,237 ERROR [http-nio-63040-exec-192][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,237 ERROR [http-nio-63040-exec-63][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,238 ERROR [http-nio-63040-exec-174][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,238 ERROR [http-nio-63040-exec-136][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,239 ERROR [http-nio-63040-exec-119][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,240 ERROR [http-nio-63040-exec-120][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,240 ERROR [http-nio-63040-exec-199][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,240 ERROR [http-nio-63040-exec-133][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,240 ERROR [http-nio-63040-exec-89][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,240 ERROR [http-nio-63040-exec-179][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,240 ERROR [http-nio-63040-exec-186][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-22][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-134][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-93][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-58][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-78][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-149][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,212 ERROR [http-nio-63040-exec-141][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,242 ERROR [http-nio-63040-exec-108][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,242 ERROR [http-nio-63040-exec-190][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,242 ERROR [http-nio-63040-exec-183][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,243 ERROR [http-nio-63040-exec-17][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,243 ERROR [http-nio-63040-exec-86][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,243 ERROR [http-nio-63040-exec-184][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,243 ERROR [http-nio-63040-exec-102][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,244 ERROR [http-nio-63040-exec-75][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,244 ERROR [http-nio-63040-exec-21][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,245 ERROR [http-nio-63040-exec-153][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,245 ERROR [http-nio-63040-exec-42][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,217 ERROR [http-nio-63040-exec-163][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,245 ERROR [http-nio-63040-exec-79][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,245 ERROR [http-nio-63040-exec-38][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,220 ERROR [http-nio-63040-exec-198][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,246 ERROR [http-nio-63040-exec-188][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,246 ERROR [http-nio-63040-exec-191][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-35][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-54][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-66][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-167][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-172][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-101][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-77][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-150][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-92][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-157][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-166][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-68][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-12][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-178][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-154][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-148][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-158][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-73][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-31][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-69][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-39][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,259 ERROR [http-nio-63040-exec-131][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-84][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-9][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-106][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-20][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-56][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-46][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-169][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-100][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-26][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,260 ERROR [http-nio-63040-exec-33][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-105][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-109][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-45][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-47][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-14][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-144][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-71][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-60][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-65][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-50][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-61][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-117][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-181][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,221 ERROR [http-nio-63040-exec-51][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,221 ERROR [http-nio-63040-exec-165][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,262 ERROR [http-nio-63040-exec-170][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,228 ERROR [http-nio-63040-exec-40][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,229 ERROR [http-nio-63040-exec-98][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,229 ERROR [http-nio-63040-exec-67][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,231 ERROR [http-nio-63040-exec-138][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,264 ERROR [http-nio-63040-exec-155][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,231 ERROR [http-nio-63040-exec-107][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,266 ERROR [http-nio-63040-exec-29][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,234 ERROR [http-nio-63040-exec-70][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,236 ERROR [http-nio-63040-exec-137][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,236 ERROR [http-nio-63040-exec-156][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-13][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-43][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,268 ERROR [http-nio-63040-exec-57][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,268 ERROR [http-nio-63040-exec-164][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,268 ERROR [http-nio-63040-exec-5][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,241 ERROR [http-nio-63040-exec-121][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,244 ERROR [http-nio-63040-exec-159][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,270 ERROR [http-nio-63040-exec-18][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,244 ERROR [http-nio-63040-exec-53][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,238 ERROR [http-nio-63040-exec-128][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,281 ERROR [http-nio-63040-exec-185][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,246 ERROR [http-nio-63040-exec-62][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,246 ERROR [http-nio-63040-exec-193][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,258 ERROR [http-nio-63040-exec-124][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-151][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-16][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,306 ERROR [http-nio-63040-exec-200][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,261 ERROR [http-nio-63040-exec-103][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:25:21,268 ERROR [http-nio-63040-exec-48][GlobalExceptionHandler.java:60] - 【系统异常】java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+2023-02-21 21:39:35,729 ERROR [Thread-57][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:39:42,887 ERROR [Thread-57][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:44:09,314 ERROR [Thread-52][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:44:29,537 ERROR [Thread-46][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:47:18,402 ERROR [Thread-48][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:47:24,121 ERROR [Thread-51][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:48:53,933 ERROR [Thread-49][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:49:00,525 ERROR [Thread-54][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:50:48,281 ERROR [Thread-51][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:52:33,873 ERROR [Thread-48][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:55:52,230 ERROR [Thread-48][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-02-21 21:56:42,967 ERROR [Thread-47][EmbedServer.java:93] - >>>>>>>>>>> xxl-job remoting server error.
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:438)
+	at sun.nio.ch.Net.bind(Net.java:430)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:225)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:550)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:506)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:491)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:973)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:248)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:356)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:750)

@@ -1,0 +1,8 @@
+2023-02-15 16:48:00,231 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:36] - 【系统异常】不允许访问
+2023-02-15 16:48:43,942 ERROR [http-nio-63040-exec-2][GlobalExceptionHandler.java:36] - 【系统异常】不允许访问
+2023-02-15 16:54:00,645 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:37] - 【系统异常】不允许访问
+2023-02-15 16:54:02,176 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:37] - 【系统异常】不允许访问
+2023-02-15 16:54:04,802 ERROR [http-nio-63040-exec-2][GlobalExceptionHandler.java:37] - 【系统异常】不允许访问
+2023-02-15 16:55:23,655 ERROR [http-nio-63040-exec-4][GlobalExceptionHandler.java:37] - 【系统异常】不允许访问
+2023-02-15 16:55:26,565 ERROR [http-nio-63040-exec-5][GlobalExceptionHandler.java:37] - 【系统异常】不允许访问
+2023-02-15 16:55:43,651 ERROR [http-nio-63040-exec-6][GlobalExceptionHandler.java:37] - 【系统异常】不允许访问

@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
+import java.nio.file.AccessDeniedException;
 import java.util.List;
 
 /**
@@ -29,12 +30,13 @@ public class GlobalExceptionHandler {
         return new RestErrorResponse(e.getErrMessage());
     }
 
+
     @ResponseBody
-    @ExceptionHandler(Exception.class)
+    @ExceptionHandler(AccessDeniedException.class)
     @ResponseStatus//定义返回的code为500
-    public RestErrorResponse  doException(Exception e){
-        log.error("【系统异常】{}",e.getMessage());
-        return new RestErrorResponse(CommonError.UNKOWN_ERROR.getErrMessage());
+    public RestErrorResponse  doAccessDeniedException(AccessDeniedException e){
+        log.error("【权限异常】{}",e.getMessage());
+        return new RestErrorResponse("没有操作此功能的权限");
     }
 
     @ResponseBody
@@ -50,4 +52,13 @@ public class GlobalExceptionHandler {
         log.error(errors.toString());
         return new RestErrorResponse(errors.toString());
     }
+
+    @ResponseBody
+    @ExceptionHandler(Exception.class)
+    @ResponseStatus//定义返回的code为500
+    public RestErrorResponse  doException(Exception e){
+        log.error("【系统异常】{}",e.getMessage());
+        return new RestErrorResponse(CommonError.UNKOWN_ERROR.getErrMessage());
+    }
+
 }

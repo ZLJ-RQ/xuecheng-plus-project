@@ -1,0 +1,4 @@
+2023-02-21 15:11:02,862 ERROR [http-nio-63020-exec-4][GlobalExceptionHandler.java:29] - 【系统异常】请登录后继续选课
+2023-02-21 15:53:50,532 ERROR [http-nio-63020-exec-5][GlobalExceptionHandler.java:60] - 【系统异常】com.netflix.client.ClientException: Load balancer does not have available server for client: media-api
+2023-02-21 15:53:52,322 ERROR [http-nio-63020-exec-6][GlobalExceptionHandler.java:60] - 【系统异常】com.netflix.client.ClientException: Load balancer does not have available server for client: media-api
+2023-02-21 15:53:53,270 ERROR [http-nio-63020-exec-7][GlobalExceptionHandler.java:60] - 【系统异常】com.netflix.client.ClientException: Load balancer does not have available server for client: media-api

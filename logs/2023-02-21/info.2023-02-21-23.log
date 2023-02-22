@@ -1,0 +1,246 @@
+2023-02-21 23:19:59,857 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][PropertySourceBootstrapConfiguration.java:112] - Located property source: [BootstrapPropertySource {name='bootstrapProperties-content-api-dev.yaml,xuecheng-plus-project'}, BootstrapPropertySource {name='bootstrapProperties-content-api.yaml,xuecheng-plus-project'}, BootstrapPropertySource {name='bootstrapProperties-content-api,xuecheng-plus-project'}, BootstrapPropertySource {name='bootstrapProperties-content-service-dev.yaml,xuecheng-plus-project'}, BootstrapPropertySource {name='bootstrapProperties-redis-dev.yaml,xuecheng-plus-common'}, BootstrapPropertySource {name='bootstrapProperties-freemarker-config-dev.yaml,xuecheng-plus-common'}, BootstrapPropertySource {name='bootstrapProperties-logging-dev.yaml,xuecheng-plus-common'}, BootstrapPropertySource {name='bootstrapProperties-swagger-dev.yaml,xuecheng-plus-common'}]
+2023-02-21 23:19:59,857 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][PropertySourceBootstrapConfiguration.java:112] - Located property source: [BootstrapPropertySource {name='bootstrapProperties-content-api-dev.yaml,xuecheng-plus-project'}, BootstrapPropertySource {name='bootstrapProperties-content-api.yaml,xuecheng-plus-project'}, BootstrapPropertySource {name='bootstrapProperties-content-api,xuecheng-plus-project'}, BootstrapPropertySource {name='bootstrapProperties-content-service-dev.yaml,xuecheng-plus-project'}, BootstrapPropertySource {name='bootstrapProperties-redis-dev.yaml,xuecheng-plus-common'}, BootstrapPropertySource {name='bootstrapProperties-freemarker-config-dev.yaml,xuecheng-plus-common'}, BootstrapPropertySource {name='bootstrapProperties-logging-dev.yaml,xuecheng-plus-common'}, BootstrapPropertySource {name='bootstrapProperties-swagger-dev.yaml,xuecheng-plus-common'}]
+2023-02-21 23:19:59,914 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][SpringApplication.java:655] - The following profiles are active: dev
+2023-02-21 23:19:59,914 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][SpringApplication.java:655] - The following profiles are active: dev
+2023-02-21 23:19:59,914 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][SpringApplication.java:655] - The following profiles are active: dev
+2023-02-21 23:19:59,914 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][SpringApplication.java:655] - The following profiles are active: dev
+2023-02-21 23:19:59,931 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][StartupInfoLogger.java:61] - Started application in 3.416 seconds (JVM running for 4212.425)
+2023-02-21 23:19:59,931 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][StartupInfoLogger.java:61] - Started application in 3.416 seconds (JVM running for 4212.425)
+2023-02-21 23:19:59,933 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][StartupInfoLogger.java:61] - Started application in 3.403 seconds (JVM running for 4813.616)
+2023-02-21 23:19:59,933 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][StartupInfoLogger.java:61] - Started application in 3.403 seconds (JVM running for 4813.616)
+2023-02-21 23:20:00,372 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][RefreshEventListener.java:73] - Refresh keys changed: [spring.redis.redisson.config, spring.redis.spring]
+2023-02-21 23:20:00,372 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][RefreshEventListener.java:73] - Refresh keys changed: [spring.redis.redisson.config, spring.redis.spring]
+2023-02-21 23:20:00,433 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][RefreshEventListener.java:73] - Refresh keys changed: [spring.redis.redisson.config, spring.redis.spring]
+2023-02-21 23:20:00,433 INFO [com.alibaba.nacos.client.Worker.longPolling.fixed-192.168.101.65_8848-dev1][RefreshEventListener.java:73] - Refresh keys changed: [spring.redis.redisson.config, spring.redis.spring]
+2023-02-21 23:27:20,010 INFO [main][RepositoryConfigurationDelegate.java:249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-21 23:27:20,010 INFO [main][RepositoryConfigurationDelegate.java:249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-21 23:27:20,015 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-21 23:27:20,015 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-21 23:27:20,062 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 31ms. Found 0 Redis repository interfaces.
+2023-02-21 23:27:20,062 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 31ms. Found 0 Redis repository interfaces.
+2023-02-21 23:27:20,173 WARN [main][EndpointId.java:155] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-02-21 23:27:20,173 WARN [main][EndpointId.java:155] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-02-21 23:27:20,399 INFO [main][GenericScope.java:295] - BeanFactory id=080d41e5-f792-3776-ab86-edbc3b230f21
+2023-02-21 23:27:20,399 INFO [main][GenericScope.java:295] - BeanFactory id=080d41e5-f792-3776-ab86-edbc3b230f21
+2023-02-21 23:27:20,449 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:20,449 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:20,451 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.SearchServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:20,451 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.SearchServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:20,598 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@492521c4' of type [org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:20,598 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@492521c4' of type [org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:20,606 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:20,606 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:21,021 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2023-02-21 23:27:21,021 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2023-02-21 23:27:21,259 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 3110 ms
+2023-02-21 23:27:21,259 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 3110 ms
+2023-02-21 23:27:24,104 INFO [main][RepositoryConfigurationDelegate.java:249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-21 23:27:24,104 INFO [main][RepositoryConfigurationDelegate.java:249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-21 23:27:24,111 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-21 23:27:24,111 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-21 23:27:24,166 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 37ms. Found 0 Redis repository interfaces.
+2023-02-21 23:27:24,166 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 37ms. Found 0 Redis repository interfaces.
+2023-02-21 23:27:24,293 WARN [main][EndpointId.java:155] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-02-21 23:27:24,293 WARN [main][EndpointId.java:155] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-02-21 23:27:24,584 INFO [main][GenericScope.java:295] - BeanFactory id=080d41e5-f792-3776-ab86-edbc3b230f21
+2023-02-21 23:27:24,584 INFO [main][GenericScope.java:295] - BeanFactory id=080d41e5-f792-3776-ab86-edbc3b230f21
+2023-02-21 23:27:24,637 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:24,637 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:24,638 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.SearchServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:24,638 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.SearchServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:24,813 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6ddd1c51' of type [org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:24,813 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6ddd1c51' of type [org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:24,822 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:24,822 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:27:25,295 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63041 (http)
+2023-02-21 23:27:25,295 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63041 (http)
+2023-02-21 23:27:25,504 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 3402 ms
+2023-02-21 23:27:25,504 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 3402 ms
+2023-02-21 23:27:29,771 WARN [main][JwtAccessTokenConverter.java:302] - Unable to create an RSA verifier from verifierKey (ignoreable if using MAC)
+2023-02-21 23:27:29,771 WARN [main][JwtAccessTokenConverter.java:302] - Unable to create an RSA verifier from verifierKey (ignoreable if using MAC)
+2023-02-21 23:27:31,682 INFO [main][EndpointLinksResolver.java:58] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-02-21 23:27:31,682 INFO [main][EndpointLinksResolver.java:58] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-02-21 23:27:31,865 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-02-21 23:27:31,865 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-02-21 23:27:32,067 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-02-21 23:27:32,067 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-02-21 23:27:32,204 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-21 23:27:32,204 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-21 23:27:32,497 INFO [main][UserDetailsServiceAutoConfiguration.java:86] - 
+
+Using generated security password: 439873ab-5333-4f15-a6be-4b02e6ecb06c
+
+2023-02-21 23:27:32,497 INFO [main][UserDetailsServiceAutoConfiguration.java:86] - 
+
+Using generated security password: 439873ab-5333-4f15-a6be-4b02e6ecb06c
+
+2023-02-21 23:27:32,915 INFO [main][DefaultSecurityFilterChain.java:43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@53f1fcc2, org.springframework.security.web.context.SecurityContextPersistenceFilter@10b5ff4d, org.springframework.security.web.header.HeaderWriterFilter@5f14590c, org.springframework.security.web.authentication.logout.LogoutFilter@64921450, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@1ba98508, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@222eda8a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@23cfdfa2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a261998, org.springframework.security.web.session.SessionManagementFilter@3f78a5ed, org.springframework.security.web.access.ExceptionTranslationFilter@384f0e32, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1afabf06]
+2023-02-21 23:27:32,915 INFO [main][DefaultSecurityFilterChain.java:43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@53f1fcc2, org.springframework.security.web.context.SecurityContextPersistenceFilter@10b5ff4d, org.springframework.security.web.header.HeaderWriterFilter@5f14590c, org.springframework.security.web.authentication.logout.LogoutFilter@64921450, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@1ba98508, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@222eda8a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@23cfdfa2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a261998, org.springframework.security.web.session.SessionManagementFilter@3f78a5ed, org.springframework.security.web.access.ExceptionTranslationFilter@384f0e32, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1afabf06]
+2023-02-21 23:27:33,631 WARN [main][JwtAccessTokenConverter.java:302] - Unable to create an RSA verifier from verifierKey (ignoreable if using MAC)
+2023-02-21 23:27:33,631 WARN [main][JwtAccessTokenConverter.java:302] - Unable to create an RSA verifier from verifierKey (ignoreable if using MAC)
+2023-02-21 23:27:34,664 WARN [main][SpringCloudSecurityAutoConfiguration.java:38] - All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release.
+2023-02-21 23:27:34,664 WARN [main][SpringCloudSecurityAutoConfiguration.java:38] - All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release.
+2023-02-21 23:27:34,973 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2023-02-21 23:27:34,973 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2023-02-21 23:27:35,561 INFO [main][EndpointLinksResolver.java:58] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-02-21 23:27:35,561 INFO [main][EndpointLinksResolver.java:58] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-02-21 23:27:35,752 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-02-21 23:27:35,752 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-02-21 23:27:35,983 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-02-21 23:27:35,983 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-02-21 23:27:36,158 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-21 23:27:36,158 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-21 23:27:36,356 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-02-21 23:27:36,356 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-02-21 23:27:36,369 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-02-21 23:27:36,369 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-02-21 23:27:36,419 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-02-21 23:27:36,419 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-02-21 23:27:36,482 INFO [main][UserDetailsServiceAutoConfiguration.java:86] - 
+
+Using generated security password: 5c08353f-5beb-4270-a3c1-365d51d9f340
+
+2023-02-21 23:27:36,482 INFO [main][UserDetailsServiceAutoConfiguration.java:86] - 
+
+Using generated security password: 5c08353f-5beb-4270-a3c1-365d51d9f340
+
+2023-02-21 23:27:36,788 INFO [main][DefaultSecurityFilterChain.java:43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@87f1201, org.springframework.security.web.context.SecurityContextPersistenceFilter@1e09c0b, org.springframework.security.web.header.HeaderWriterFilter@347f8029, org.springframework.security.web.authentication.logout.LogoutFilter@41f5389f, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@b791e6e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@48f2d51d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2119b989, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@796613b7, org.springframework.security.web.session.SessionManagementFilter@257d3968, org.springframework.security.web.access.ExceptionTranslationFilter@1ce8084a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@49770ef9]
+2023-02-21 23:27:36,788 INFO [main][DefaultSecurityFilterChain.java:43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@87f1201, org.springframework.security.web.context.SecurityContextPersistenceFilter@1e09c0b, org.springframework.security.web.header.HeaderWriterFilter@347f8029, org.springframework.security.web.authentication.logout.LogoutFilter@41f5389f, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@b791e6e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@48f2d51d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2119b989, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@796613b7, org.springframework.security.web.session.SessionManagementFilter@257d3968, org.springframework.security.web.access.ExceptionTranslationFilter@1ce8084a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@49770ef9]
+2023-02-21 23:27:38,117 INFO [RMI TCP Connection(4)-192.168.31.177][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-21 23:27:38,117 INFO [RMI TCP Connection(4)-192.168.31.177][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-21 23:27:38,134 INFO [RMI TCP Connection(4)-192.168.31.177][FrameworkServlet.java:547] - Completed initialization in 16 ms
+2023-02-21 23:27:38,134 INFO [RMI TCP Connection(4)-192.168.31.177][FrameworkServlet.java:547] - Completed initialization in 16 ms
+2023-02-21 23:27:38,721 WARN [main][SpringCloudSecurityAutoConfiguration.java:38] - All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release.
+2023-02-21 23:27:38,721 WARN [main][SpringCloudSecurityAutoConfiguration.java:38] - All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release.
+2023-02-21 23:27:39,082 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63041 (http) with context path '/content'
+2023-02-21 23:27:39,082 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63041 (http) with context path '/content'
+2023-02-21 23:27:40,583 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-02-21 23:27:40,583 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-02-21 23:27:40,596 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-02-21 23:27:40,596 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-02-21 23:27:40,642 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-02-21 23:27:40,642 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-02-21 23:27:41,930 INFO [RMI TCP Connection(2)-192.168.31.177][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-21 23:27:41,930 INFO [RMI TCP Connection(2)-192.168.31.177][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-21 23:27:41,941 INFO [RMI TCP Connection(2)-192.168.31.177][FrameworkServlet.java:547] - Completed initialization in 11 ms
+2023-02-21 23:27:41,941 INFO [RMI TCP Connection(2)-192.168.31.177][FrameworkServlet.java:547] - Completed initialization in 11 ms
+2023-02-21 23:50:21,565 INFO [main][RepositoryConfigurationDelegate.java:249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-21 23:50:21,565 INFO [main][RepositoryConfigurationDelegate.java:249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-21 23:50:21,569 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-21 23:50:21,569 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-21 23:50:21,611 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 29ms. Found 0 Redis repository interfaces.
+2023-02-21 23:50:21,611 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 29ms. Found 0 Redis repository interfaces.
+2023-02-21 23:50:21,706 WARN [main][EndpointId.java:155] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-02-21 23:50:21,706 WARN [main][EndpointId.java:155] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-02-21 23:50:21,904 INFO [main][GenericScope.java:295] - BeanFactory id=080d41e5-f792-3776-ab86-edbc3b230f21
+2023-02-21 23:50:21,904 INFO [main][GenericScope.java:295] - BeanFactory id=080d41e5-f792-3776-ab86-edbc3b230f21
+2023-02-21 23:50:21,949 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:21,949 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:21,950 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.SearchServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:21,950 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.SearchServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:22,080 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@492521c4' of type [org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:22,080 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@492521c4' of type [org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:22,087 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:22,087 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:22,403 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2023-02-21 23:50:22,403 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2023-02-21 23:50:22,582 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2426 ms
+2023-02-21 23:50:22,582 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2426 ms
+2023-02-21 23:50:31,326 WARN [main][JwtAccessTokenConverter.java:302] - Unable to create an RSA verifier from verifierKey (ignoreable if using MAC)
+2023-02-21 23:50:31,326 WARN [main][JwtAccessTokenConverter.java:302] - Unable to create an RSA verifier from verifierKey (ignoreable if using MAC)
+2023-02-21 23:50:33,055 INFO [main][EndpointLinksResolver.java:58] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-02-21 23:50:33,055 INFO [main][EndpointLinksResolver.java:58] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-02-21 23:50:33,140 INFO [main][RepositoryConfigurationDelegate.java:249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-21 23:50:33,140 INFO [main][RepositoryConfigurationDelegate.java:249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-02-21 23:50:33,146 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-21 23:50:33,146 INFO [main][RepositoryConfigurationDelegate.java:127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-02-21 23:50:33,203 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 37ms. Found 0 Redis repository interfaces.
+2023-02-21 23:50:33,203 INFO [main][RepositoryConfigurationDelegate.java:187] - Finished Spring Data repository scanning in 37ms. Found 0 Redis repository interfaces.
+2023-02-21 23:50:33,261 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-02-21 23:50:33,261 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-02-21 23:50:33,330 WARN [main][EndpointId.java:155] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-02-21 23:50:33,330 WARN [main][EndpointId.java:155] - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-02-21 23:50:33,456 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-02-21 23:50:33,456 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-02-21 23:50:33,540 INFO [main][GenericScope.java:295] - BeanFactory id=080d41e5-f792-3776-ab86-edbc3b230f21
+2023-02-21 23:50:33,540 INFO [main][GenericScope.java:295] - BeanFactory id=080d41e5-f792-3776-ab86-edbc3b230f21
+2023-02-21 23:50:33,586 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-21 23:50:33,586 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-21 23:50:33,588 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:33,588 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:33,590 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.SearchServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:33,590 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.content.feignclient.SearchServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:33,727 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6ddd1c51' of type [org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:33,727 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6ddd1c51' of type [org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:33,735 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:33,735 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-02-21 23:50:33,846 INFO [main][UserDetailsServiceAutoConfiguration.java:86] - 
+
+Using generated security password: 68f8a07f-7d13-4371-8fcb-a99204213c14
+
+2023-02-21 23:50:33,846 INFO [main][UserDetailsServiceAutoConfiguration.java:86] - 
+
+Using generated security password: 68f8a07f-7d13-4371-8fcb-a99204213c14
+
+2023-02-21 23:50:34,034 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63041 (http)
+2023-02-21 23:50:34,034 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63041 (http)
+2023-02-21 23:50:34,131 INFO [main][DefaultSecurityFilterChain.java:43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@53f1fcc2, org.springframework.security.web.context.SecurityContextPersistenceFilter@10b5ff4d, org.springframework.security.web.header.HeaderWriterFilter@5f14590c, org.springframework.security.web.authentication.logout.LogoutFilter@64921450, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@1ba98508, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@222eda8a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@23cfdfa2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a261998, org.springframework.security.web.session.SessionManagementFilter@3f78a5ed, org.springframework.security.web.access.ExceptionTranslationFilter@384f0e32, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1afabf06]
+2023-02-21 23:50:34,131 INFO [main][DefaultSecurityFilterChain.java:43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@53f1fcc2, org.springframework.security.web.context.SecurityContextPersistenceFilter@10b5ff4d, org.springframework.security.web.header.HeaderWriterFilter@5f14590c, org.springframework.security.web.authentication.logout.LogoutFilter@64921450, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@1ba98508, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@222eda8a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@23cfdfa2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a261998, org.springframework.security.web.session.SessionManagementFilter@3f78a5ed, org.springframework.security.web.access.ExceptionTranslationFilter@384f0e32, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1afabf06]
+2023-02-21 23:50:34,222 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2656 ms
+2023-02-21 23:50:34,222 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2656 ms
+2023-02-21 23:50:35,816 WARN [main][SpringCloudSecurityAutoConfiguration.java:38] - All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release.
+2023-02-21 23:50:35,816 WARN [main][SpringCloudSecurityAutoConfiguration.java:38] - All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release.
+2023-02-21 23:50:36,050 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2023-02-21 23:50:36,050 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2023-02-21 23:50:37,454 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-02-21 23:50:37,454 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-02-21 23:50:37,464 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-02-21 23:50:37,464 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-02-21 23:50:37,504 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-02-21 23:50:37,504 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-02-21 23:50:39,064 INFO [RMI TCP Connection(3)-192.168.101.1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-21 23:50:39,064 INFO [RMI TCP Connection(3)-192.168.101.1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-21 23:50:39,084 INFO [RMI TCP Connection(3)-192.168.101.1][FrameworkServlet.java:547] - Completed initialization in 18 ms
+2023-02-21 23:50:39,084 INFO [RMI TCP Connection(3)-192.168.101.1][FrameworkServlet.java:547] - Completed initialization in 18 ms
+2023-02-21 23:50:42,610 WARN [main][JwtAccessTokenConverter.java:302] - Unable to create an RSA verifier from verifierKey (ignoreable if using MAC)
+2023-02-21 23:50:42,610 WARN [main][JwtAccessTokenConverter.java:302] - Unable to create an RSA verifier from verifierKey (ignoreable if using MAC)
+2023-02-21 23:50:44,129 INFO [main][EndpointLinksResolver.java:58] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-02-21 23:50:44,129 INFO [main][EndpointLinksResolver.java:58] - Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-02-21 23:50:44,283 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-02-21 23:50:44,283 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-02-21 23:50:44,458 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-02-21 23:50:44,458 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-02-21 23:50:44,586 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-21 23:50:44,586 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-02-21 23:50:44,845 INFO [main][UserDetailsServiceAutoConfiguration.java:86] - 
+
+Using generated security password: 4d13d0ed-a7c2-4890-86f3-30aac22cc6c0
+
+2023-02-21 23:50:44,845 INFO [main][UserDetailsServiceAutoConfiguration.java:86] - 
+
+Using generated security password: 4d13d0ed-a7c2-4890-86f3-30aac22cc6c0
+
+2023-02-21 23:50:45,083 INFO [main][DefaultSecurityFilterChain.java:43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7df23848, org.springframework.security.web.context.SecurityContextPersistenceFilter@5400db7e, org.springframework.security.web.header.HeaderWriterFilter@222eda8a, org.springframework.security.web.authentication.logout.LogoutFilter@4c599679, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@48da5106, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@76eee0b1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@40d04cf8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1b120d48, org.springframework.security.web.session.SessionManagementFilter@151d216e, org.springframework.security.web.access.ExceptionTranslationFilter@10b5ff4d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@21b2579d]
+2023-02-21 23:50:45,083 INFO [main][DefaultSecurityFilterChain.java:43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7df23848, org.springframework.security.web.context.SecurityContextPersistenceFilter@5400db7e, org.springframework.security.web.header.HeaderWriterFilter@222eda8a, org.springframework.security.web.authentication.logout.LogoutFilter@4c599679, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@48da5106, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@76eee0b1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@40d04cf8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1b120d48, org.springframework.security.web.session.SessionManagementFilter@151d216e, org.springframework.security.web.access.ExceptionTranslationFilter@10b5ff4d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@21b2579d]
+2023-02-21 23:50:46,526 WARN [main][SpringCloudSecurityAutoConfiguration.java:38] - All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release.
+2023-02-21 23:50:46,526 WARN [main][SpringCloudSecurityAutoConfiguration.java:38] - All Spring Cloud Security modules and starters are deprecated. They will be moved to individual projects in the next major release.
+2023-02-21 23:50:46,725 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63041 (http) with context path '/content'
+2023-02-21 23:50:46,725 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63041 (http) with context path '/content'
+2023-02-21 23:50:47,872 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-02-21 23:50:47,872 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-02-21 23:50:47,882 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-02-21 23:50:47,882 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-02-21 23:50:47,922 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-02-21 23:50:47,922 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-02-21 23:50:50,478 INFO [RMI TCP Connection(5)-192.168.101.1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-21 23:50:50,478 INFO [RMI TCP Connection(5)-192.168.101.1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-21 23:50:50,488 INFO [RMI TCP Connection(5)-192.168.101.1][FrameworkServlet.java:547] - Completed initialization in 9 ms
+2023-02-21 23:50:50,488 INFO [RMI TCP Connection(5)-192.168.101.1][FrameworkServlet.java:547] - Completed initialization in 9 ms
+2023-02-21 23:54:51,488 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:60] - 【系统异常】attempt to unlock lock, not locked by current thread by node id: d9bec469-575d-4768-b157-7989274af690 thread-id: 99
+2023-02-21 23:54:51,488 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:60] - 【系统异常】attempt to unlock lock, not locked by current thread by node id: d9bec469-575d-4768-b157-7989274af690 thread-id: 99
+2023-02-21 23:56:01,905 ERROR [http-nio-63040-exec-6][GlobalExceptionHandler.java:60] - 【系统异常】attempt to unlock lock, not locked by current thread by node id: d9bec469-575d-4768-b157-7989274af690 thread-id: 102
+2023-02-21 23:56:01,905 ERROR [http-nio-63040-exec-6][GlobalExceptionHandler.java:60] - 【系统异常】attempt to unlock lock, not locked by current thread by node id: d9bec469-575d-4768-b157-7989274af690 thread-id: 102
+2023-02-21 23:56:50,810 ERROR [http-nio-63040-exec-8][GlobalExceptionHandler.java:60] - 【系统异常】attempt to unlock lock, not locked by current thread by node id: d9bec469-575d-4768-b157-7989274af690 thread-id: 104
+2023-02-21 23:56:50,810 ERROR [http-nio-63040-exec-8][GlobalExceptionHandler.java:60] - 【系统异常】attempt to unlock lock, not locked by current thread by node id: d9bec469-575d-4768-b157-7989274af690 thread-id: 104
+2023-02-21 23:57:36,960 ERROR [http-nio-63040-exec-9][GlobalExceptionHandler.java:60] - 【系统异常】attempt to unlock lock, not locked by current thread by node id: d9bec469-575d-4768-b157-7989274af690 thread-id: 105
+2023-02-21 23:57:36,960 ERROR [http-nio-63040-exec-9][GlobalExceptionHandler.java:60] - 【系统异常】attempt to unlock lock, not locked by current thread by node id: d9bec469-575d-4768-b157-7989274af690 thread-id: 105

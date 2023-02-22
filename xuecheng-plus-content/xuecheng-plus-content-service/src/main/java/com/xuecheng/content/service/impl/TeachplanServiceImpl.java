@@ -38,7 +38,7 @@ public class TeachplanServiceImpl extends ServiceImpl<TeachplanMapper, Teachplan
     TeachplanMediaMapper teachplanMediaMapper;
 
     @Override
-    public List<TeachplanDto> findTeachplayTree(long courseId) {
+    public List<TeachplanDto> findTeachplanTree(long courseId) {
         return teachplanMapper.selectTreeNodes(courseId);
     }
 

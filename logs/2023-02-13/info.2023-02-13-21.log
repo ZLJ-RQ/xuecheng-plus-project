@@ -1,0 +1,14 @@
+2023-02-13 22:00:00,076 DEBUG [xxl-job, JobThread-5-1676289580135][CoursePublishTask.java:32] - shardIndex=0,shardTotal=1
+2023-02-13 22:00:00,076 DEBUG [xxl-job, JobThread-5-1676289580135][CoursePublishTask.java:32] - shardIndex=0,shardTotal=1
+2023-02-13 22:00:00,099 DEBUG [xxl-job, JobThread-5-1676289580135][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT t.* FROM mq_message t WHERE t.id % ? = ? and t.state='0' and t.message_type=? limit ?
+2023-02-13 22:00:00,099 DEBUG [xxl-job, JobThread-5-1676289580135][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT t.* FROM mq_message t WHERE t.id % ? = ? and t.state='0' and t.message_type=? limit ?
+2023-02-13 22:00:00,100 DEBUG [xxl-job, JobThread-5-1676289580135][BaseJdbcLogger.java:137] - ==> Parameters: 1(Integer), 0(Integer), course_publish(String), 5(Integer)
+2023-02-13 22:00:00,100 DEBUG [xxl-job, JobThread-5-1676289580135][BaseJdbcLogger.java:137] - ==> Parameters: 1(Integer), 0(Integer), course_publish(String), 5(Integer)
+2023-02-13 22:00:00,103 DEBUG [xxl-job, JobThread-5-1676289580135][BaseJdbcLogger.java:137] - <==      Total: 0
+2023-02-13 22:00:00,103 DEBUG [xxl-job, JobThread-5-1676289580135][BaseJdbcLogger.java:137] - <==      Total: 0
+2023-02-13 22:00:00,104 DEBUG [xxl-job, JobThread-5-1676289580135][MessageProcessAbstract.java:53] - 取出待处理消息0条
+2023-02-13 22:00:00,104 DEBUG [xxl-job, JobThread-5-1676289580135][MessageProcessAbstract.java:53] - 取出待处理消息0条
+2023-02-13 22:00:00,105 DEBUG [xxl-job, JobThread-5-1676289580135][TriggerCallbackThread.java:40] - >>>>>>>>>>> xxl-job, push callback request, logId:253410
+2023-02-13 22:00:00,105 DEBUG [xxl-job, JobThread-5-1676289580135][TriggerCallbackThread.java:40] - >>>>>>>>>>> xxl-job, push callback request, logId:253410
+2023-02-13 22:00:00,186 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.101.65:8848]
+2023-02-13 22:00:00,186 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [192.168.101.65:8848]
